@@ -10,4 +10,5 @@ In this project I was given data on airbnb listings and I was supposed to analyz
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/44fe8b92-bc39-4dea-b180-63fffeda2c25" />
 
 ## Change Log 
+Here I logged all of the changes made to the data and also hyperlinked the different pages in the doc.
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b28961ac-e78c-4156-ae95-61217c94f9a5" />
