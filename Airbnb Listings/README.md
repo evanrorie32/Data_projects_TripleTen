@@ -12,3 +12,13 @@ In this project I was given data on airbnb listings and I was supposed to analyz
 ## Change Log 
 Here I logged all of the changes made to the data and also hyperlinked the different pages in the doc.
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b28961ac-e78c-4156-ae95-61217c94f9a5" />
+
+# Body
+## Pivot Table 
+This sheet has 3 pivot tables with True/False for each. I compared 3 separate categories:
+1. Airbnb Host is Superhost
+2. Airbnb is Instant Bookable
+3. Airbnb has Building Staff
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/64cc9dca-6dea-4a37-894b-78557a67833c" />
+
+
