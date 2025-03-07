@@ -29,3 +29,7 @@ This Pivot Table looks at the different neighborhoods and compares them to airbn
 This Pivot Table shows the average occupancy rate for each weekday
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/acabe2f5-e7df-404d-9d26-5f96a35f4234" />
 
+## Average Rate of Occupancy per Listing
+This Pivot Table shows each listings occupancy rate 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/acabe2f5-e7df-404d-9d26-5f96a35f4234" />
+
