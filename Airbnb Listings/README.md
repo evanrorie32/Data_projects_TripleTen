@@ -34,7 +34,7 @@ This Pivot Table shows each listings occupancy rate
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/afede2e8-aec2-4481-9797-c5c8086adef9" />
 
 # Result
-
+Lower East Had the Highest Reviews so that was the recommended area for a new airbnb listing. I also created a pivot table to show the average price per listing and average occupancy rate. I then showed the annual revenue earning potential
 ## Recommended Airbnb
-
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/03a466c0-17ce-4912-8933-4185cc00b253" />
 
